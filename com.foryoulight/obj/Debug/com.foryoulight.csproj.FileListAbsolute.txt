@@ -1,0 +1,7 @@
+D:\vs2017\com.foryoulight\com.foryoulight\bin\Debug\com.foryoulight.exe.config
+D:\vs2017\com.foryoulight\com.foryoulight\bin\Debug\com.foryoulight.exe
+D:\vs2017\com.foryoulight\com.foryoulight\bin\Debug\com.foryoulight.pdb
+D:\vs2017\com.foryoulight\com.foryoulight\obj\Debug\com.foryoulight.csprojAssemblyReference.cache
+D:\vs2017\com.foryoulight\com.foryoulight\obj\Debug\com.foryoulight.csproj.CoreCompileInputs.cache
+D:\vs2017\com.foryoulight\com.foryoulight\obj\Debug\com.foryoulight.exe
+D:\vs2017\com.foryoulight\com.foryoulight\obj\Debug\com.foryoulight.pdb
