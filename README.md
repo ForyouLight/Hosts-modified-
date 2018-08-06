@@ -4,7 +4,7 @@
 
 2.本项目开源协议只适用于软件本身，不包含Hosts
 
-3.hosts请移步至[Hosts](https://github.com/racaljk/hosts)  
+3.hosts请移步至[Hosts](https://github.com/ForyouLight/hosts)  
 
 4.玩得愉快哟
 
