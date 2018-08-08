@@ -37,7 +37,8 @@ namespace com.foryoulight
             a1: Console.WriteLine("\t\t\t\t\t\tHosts修改巨他妈兼容版\n\n\n\n");
             Console.WriteLine("\t\t\t\t请选择要操作项：\n\n");
             Console.WriteLine("\t\t\t\t1.修改hosts\n");
-            Console.WriteLine("\t\t\t\t2.还原hosts\n\n\n\n\n");
+            Console.WriteLine("\t\t\t\t2.还原hosts\n");
+            Console.WriteLine("\t\t\t\t3.退出\n\n\n\n\n");
             Console.Write("\t\t\t\t请选择所要操作的序号:");
             string uinty = Console.ReadLine();
             Console.Clear();
@@ -52,7 +53,7 @@ namespace com.foryoulight
                 Console.Clear();
                 goto a1;
             }
-            else if(uinty == "2")
+            else if (uinty == "2")
             {
                 Console.WriteLine("还原中。。。。。。");
                 GetHosts("https://raw.githubusercontent.com/ForyouLight/null/master/hosts", @"C:\Windows\System32\drivers\etc\hosts");
@@ -61,6 +62,10 @@ namespace com.foryoulight
                 Console.ReadKey();
                 Console.Clear();
                 goto a1;
+            }
+            else if (uinty == "3")
+            {
+                
             }
             else
             {
